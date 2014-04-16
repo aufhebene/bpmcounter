@@ -1,5 +1,2 @@
-bin
-gen
-.settings/org.eclipse.mylyn.tasks.ui.prefs
+/build
 .DS_Store
-libs/*.properties
